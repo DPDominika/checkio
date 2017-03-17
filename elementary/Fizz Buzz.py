@@ -1,3 +1,5 @@
+# https://py.checkio.org/mission/fizz-buzz/
+
 def checkio(number):
     if number % 3 == 0 and number % 5 == 0:
         return "Fizz Buzz"
